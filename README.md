@@ -145,7 +145,7 @@ Total Sales between 2025-06-01 and 2025-06-30: ₹ 100000
 
 ---
 ## 🙋‍♂️ Author
-IVIN SANTHOSH
+IVIN SANTHOSH <br/>
 Java Developer | MongoDB Enthusiast
 
 ---
